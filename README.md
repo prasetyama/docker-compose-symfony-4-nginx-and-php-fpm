@@ -1,4 +1,4 @@
-# docker-compose-symfony-4-nginx-and-php-fpm
+# docker compose symfony 4 nginx and php fpm
 
 Git clone
 
